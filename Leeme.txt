@@ -1,0 +1,4 @@
+Archivos de práctica de un curso de c++ que realizo para aprender a utilizar desde lo básico
+hasta poder comenzar a realizar programas completos.
+Cada archivo tiene líneas de comentarios que voy realizando en algunas lineas para poder
+entender mejor algunas funciones.
